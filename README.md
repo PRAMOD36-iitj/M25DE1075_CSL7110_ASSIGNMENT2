@@ -2,7 +2,7 @@ This README covers the implementation of MinHash and Locality Sensitive Hashing 
 
  MinHash and LSH Similarity Analysis
 
-This repository contains Python implementations of MinHash and Locality Sensitive Hashing (LSH) applied to two distinct datasets: a collection of text documents and the MovieLens 100k dataset. The goal is to efficiently estimate Jaccard similarity and find similar items without exhaustive pairwise comparisons.
+This repository contains Python implementations of MinHash and Locality Sensitive Hashing (LSH) applied to two distinct datasets, a collection of text documents and the MovieLens 100k dataset. The goal is to efficiently estimate Jaccard similarity and find similar items without exhaustive pairwise comparisons.
 
  Project Structure
 
