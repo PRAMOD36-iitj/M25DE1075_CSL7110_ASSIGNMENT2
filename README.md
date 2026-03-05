@@ -4,76 +4,71 @@ Student ID: M25DE1075
 Course: CSL7110 - Machine Learning with Big Data  
 Institution: IIT Jodhpur  
 
- Problem Statement
+---
+
+Problem Statement
 
 This assignment focuses on applying Machine Learning techniques to large-scale datasets using Python and NumPy. The objective is to implement and analyze ML algorithms that can efficiently handle big data scenarios, demonstrating understanding of both machine learning concepts and scalable data processing.
 
+---
 
+ Setup & Installation
 
-Setup & Installation
+Prerequisites
 
- Prerequisites
-
- Python 3.8 or higher
- pip (Python package manager)
+- Python 3.8 or higher
+- pip (Python package manager)
 
  Clone the Repository
 
-bash
+```bash
 git clone https://github.com/PRAMOD36-iitj/M25DE1075_CSL7110_ASSIGNMENT2.git
 cd M25DE1075_CSL7110_ASSIGNMENT2
+```
 
+ Install Dependencies
 
-Install Dependencies
-
-bash
+```bash
 pip install numpy
-
+```
 
 Or if a `requirements.txt` is provided:
 
-bash
+```bash
 pip install -r requirements.txt
+```
 
+---
 
  How to Run
 
 1. Navigate to the project directory:
 
-bash
+```bash
 cd M25DE1075_CSL7110_ASSIGNMENT2
+```
 
 2. Run the main script:
 
-bash
+```bash
 python main.py
-
+```
 
 3. To run a specific notebook (if applicable):
 
-bash
+```bash
 jupyter notebook assignment2.ipynb
+```
+
+---
 
 
- Results & Output
 
-The program outputs the following:
+---
 
-- Model training accuracy and loss metrics
-- Evaluation results on test data
-- Plots/visualizations of model performance (if applicable)
+## Project Structure
 
-Sample output:
-
-Training Accuracy : XX.XX%
-Test Accuracy     : XX.XX%
-Loss              : X.XXXX
-
-Note Update this section with your actual results after running the code.
-
- Project Structure
-
-
+```
 M25DE1075_CSL7110_ASSIGNMENT2/
 │
 ├── main.py               # Main execution script
@@ -81,5 +76,7 @@ M25DE1075_CSL7110_ASSIGNMENT2/
 ├── data/                 # Dataset files
 ├── notebooks/            # Jupyter notebooks
 └── README.md             # Project documentation
+```
 
+---
 
