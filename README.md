@@ -4,13 +4,11 @@ Student ID: M25DE1075
 Course: CSL7110 - Machine Learning with Big Data  
 Institution: IIT Jodhpur  
 
----
 
 Problem Statement
 
 This assignment focuses on applying Machine Learning techniques to large-scale datasets using Python and NumPy. The objective is to implement and analyze ML algorithms that can efficiently handle big data scenarios, demonstrating understanding of both machine learning concepts and scalable data processing.
 
----
 
  Setup & Installation
 
@@ -38,7 +36,7 @@ Or if a `requirements.txt` is provided:
 pip install -r requirements.txt
 ```
 
----
+
 
  How to Run
 
@@ -60,13 +58,13 @@ python main.py
 jupyter notebook assignment2.ipynb
 ```
 
----
 
 
 
----
 
-## Project Structure
+
+
+ Project Structure
 
 ```
 M25DE1075_CSL7110_ASSIGNMENT2/
@@ -78,5 +76,5 @@ M25DE1075_CSL7110_ASSIGNMENT2/
 └── README.md             # Project documentation
 ```
 
----
+
 
