@@ -49,19 +49,8 @@ cd M25DE1075_CSL7110_ASSIGNMENT2
 2. Run the main script:
 
 ```bash
-python main.py
+python script.py
 ```
-
-3. To run a specific notebook (if applicable):
-
-```bash
-jupyter notebook assignment2.ipynb
-```
-
-
-
-
-
 
 
  Project Structure
