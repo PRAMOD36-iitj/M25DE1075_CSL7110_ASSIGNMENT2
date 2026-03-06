@@ -58,7 +58,7 @@ python script.py
 ```
 M25DE1075_CSL7110_ASSIGNMENT2/
 │
-├── main.py               # Main execution script
+├── script.py               # Main execution script
 ├── requirements.txt      # Python dependencies
 ├── data/                 # Dataset files
 ├── notebooks/            # Jupyter notebooks
